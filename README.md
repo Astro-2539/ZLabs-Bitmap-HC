@@ -17,7 +17,10 @@
 > [!IMPORTANT]
 > 
 > 這是一個開源專案，採用 [OFL-1.1](https://openfontlicense.org/open-font-license-official-text/) 許可證授權。您可以免費商用此字體。
+
+> [!IMPORTANT]
 > 
+> 我們正在計劃將 Z Labs Bitmap 的三種字形變體（CN/HC/JP）統一維護（見主項目 [PR #1](https://github.com/Astro-2539/ZLabs-Bitmap/pull/1) ）。届時該項目將被合并到主項目中。
 
 ## 字體示例
 
@@ -28,16 +31,22 @@
 
 ## 字體覆蓋範圍
 
-本字體目前支援 Big5 常用漢字，可支持多數繁體中文用字需求。
+本字體目前支援：
 
-未來將增補 JIS X 0208 所規定的第一水準漢字。
+- Big5 常用漢字
+- JIS X 0208 第一水準漢字
+- 《通用規範漢字表》一級簡體漢字的對應繁體字
+- 少量未在上述範圍内的其他漢字
 
 非漢字的字母、符號等與 Z Labs Bitmap 保持一致。
 
 > **注：**
 >
 > 對於沒有香港字形源的漢字，將參考台灣字形製作。若亦無台灣字形源，將參考中國大陸字形製作。
->
+
+具體漢字覆蓋範圍如下：
+![Coverage](https://github.com/user-attachments/assets/cace661c-69ca-4e4d-8d42-be45af2e5d4f)
+
 
 
 ## 從工程檔構建字體
