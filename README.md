@@ -36,7 +36,7 @@
 - Big5 常用漢字
 - JIS X 0208 第一水準漢字
 - 《通用規範漢字表》一級簡體漢字的對應繁體字
-- 少量未在上述範圍内的其他漢字
+- 部分未在上述範圍内的其他漢字
 
 非漢字的字母、符號等與 Z Labs Bitmap 保持一致。
 
@@ -45,7 +45,9 @@
 > 對於沒有香港字形源的漢字，將參考台灣字形製作。若亦無台灣字形源，將參考中國大陸字形製作。
 
 具體漢字覆蓋範圍如下：
-![Coverage](https://github.com/user-attachments/assets/cace661c-69ca-4e4d-8d42-be45af2e5d4f)
+
+<img width="1310" height="1084" alt="CJK_Coverage" src="https://github.com/user-attachments/assets/b5e76d85-a51b-4518-9c75-fe2f6397a986" />
+
 
 
 
